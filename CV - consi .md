@@ -3,8 +3,14 @@
 
 ## Profil
 Étudiante en BTS SIO option SISR en reconversion, j’occupe actuellement un poste d’alternante axé sur l’infrastructure, le réseau et le support. Motivée, rigoureuse et polyvalente, mon objectif est d’évoluer vers un poste de technicienne polyvalente, garante de la fiabilité, des performances et de la sécurité des environnements informatiques.
-
 ---
+lien git hub : https://github.com/Alicia042
+---
+## contact
+
+mail : alicia*****mail.com
+Téléphone : 06 ** ** ** 89
+Adresse : saint etienne 
 
 ##  Expérience professionnelle
 
@@ -55,6 +61,7 @@
 
 ## Centres d’intérêt
 
-- VTT 
-- literature
+
 - vulgarisation scientifique
+- literature
+- égnime et Jeux de stratégie
