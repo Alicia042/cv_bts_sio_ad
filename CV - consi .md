@@ -52,10 +52,15 @@ Adresse : saint etienne
 
 ## Compétences
 
-- Esprit d'équipe et de collaboration
-- Autonomie et sens de l'initiative
-- Sens de l'analyse et de résolution de problèmes
-- Rigueur et précision dans le travail
+* reseaux:
+- Administration Windows Server / Linux
+- Configuration réseau (IP, DHCP, DNS)
+- irtualisation (VMware, VirtualBox)
+- Support et assistance utilisateurs
+
+* dev:
+- Développement web (HTML / CSS / bases JS) débutant 
+- Bases de données (SQL) débutant
 
 ---
 
