@@ -346,15 +346,12 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 - **Statut** : ✅ 0 erreur
 - **Avertissements** : 0
 - **Observations** : Structure HTML5 valide, toutes les balises correctement fermées
-![alt text](image.png)
 
 #### Outiref (https://www.outiref.fr/)
 - **H1** : ✅ Unique (« Alicia D**** »)
 - **Hiérarchie** : ✅ Correcte (H1 > H2 > H3)
 - **Balises sémantiques** : ✅ header, main, section, footer présents
 - **Observations** : Structure claire et logique pour les moteurs de recherche
-
-![alt text](image-1.png)
 
 #### PageSpeed Insights (https://pagespeed.web.dev/?hl=fr)
 
@@ -363,22 +360,11 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 - **Accessibilité** : 91/100
 - **Bonnes pratiques** 
 
-![alt text](image-2.png)
-
 **Version Desktop :**
 - **Performance** : 100/100
 - **Accessibilité** : 91/100
 - **Bonnes pratiques** : 100/100
 - **SEO** : 100/100
-
-![alt text](image-3.png)
-
-**Points positifs :**
-- Absence d'images lourdes
-- CSS inline (pas de requêtes HTTP supplémentaires)
-- Police système (pas de chargement de fonts externes)
-- Pas de JavaScript bloquant
-- Métadonnées complètes
 
 #### GTmetrix : https://gtmetrix.com/
 - **note** : A
@@ -388,7 +374,13 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 - **TBT** :0 ms
 - **CLS** : 0
 
-![alt text](image-4.png)
+**Points positifs :**
+- Absence d'images lourdes
+- CSS inline (pas de requêtes HTTP supplémentaires)
+- Police système (pas de chargement de fonts externes)
+- Pas de JavaScript bloquant
+- Métadonnées complètes
+
 
 ### Améliorations effectuées entre V1 et la V2
 
@@ -464,3 +456,18 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 | **C10 - Confidentialité** | 0/4 - Données sensibles | 4/4 - Conforme RGPD | +4 |
 
 
+# Évaluation du CV Web Statique V2.2
+
+### Améliorations effectuées entre V2 et la V2.2
+#### PageSpeed Insights (https://pagespeed.web.dev/?hl=fr)
+
+**Version Mobile :**
+- **Performance** : 100/100
+- **Accessibilité** : 100/100
+- **Bonnes pratiques** 
+
+**Version Desktop :**
+- **Performance** : 100/100
+- **Accessibilité** : 100/100
+- **Bonnes pratiques** : 100/100
+- **SEO** : 100/100
