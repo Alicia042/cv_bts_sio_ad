@@ -1,4 +1,5 @@
-# Évaluation du CV Web Statique
+# Évaluation du CV Web Statique V1
+
 ## Alicia D**** - BTS SIO SISR
 
 **URL évaluée:** https://alicia042.github.io/cv_bts_sio_ad/  
@@ -198,7 +199,6 @@ Cette section est **CRITIQUE** car elle fait partie des livrables obligatoires.
 
 ## 3. PageSpeed Insights
 [même structure]
-```
 
 ---
 
@@ -302,3 +302,165 @@ Cette section est **CRITIQUE** car elle fait partie des livrables obligatoires.
 ## Conclusion
 
 **Note actuelle: 9,25/20** - **Projet non validable en l'état**
+
+---
+
+
+# Évaluation du CV Web Statique V2
+
+## CV Web - Alicia D****
+**Date d'évaluation:** 30 décembre 2025
+
+## 📋 Description du projet
+
+Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce projet met en œuvre les bonnes pratiques de développement web : HTML sémantique, design responsive, accessibilité, SEO et optimisation des performances.
+
+## 🔗 Liens utiles
+
+- **Site en ligne** : https://alicia042.github.io/cv_bts_sio_ad/
+- **Dépôt GitHub** : https://github.com/Alicia042/cv_bts_sio_ad
+- **Profil GitHub** : https://github.com/Alicia042
+
+## 🛠️ Technologies utilisées
+
+- **HTML5** : Structure sémantique
+- **CSS3** : Mise en page responsive, animations
+- **Git** : Gestion de versions
+- **GitHub Pages** : Hébergement
+
+## ✨ Fonctionnalités
+
+- Design responsive (mobile, tablette, desktop)
+- Navigation au clavier optimisée
+- Contrastes et lisibilité respectant les normes WCAG
+- Structure sémantique HTML5
+- Optimisation SEO
+- Performance optimisée (CSS inline, police système)
+- Respect de la confidentialité (contact via GitHub)
+
+## 🧪 Auto-évaluation
+
+### Résultats des validateurs
+
+#### W3C Validator (https://validator.w3.org/)
+- **Statut** : ✅ 0 erreur
+- **Avertissements** : 0
+- **Observations** : Structure HTML5 valide, toutes les balises correctement fermées
+![alt text](image.png)
+
+#### Outiref (https://www.outiref.fr/)
+- **H1** : ✅ Unique (« Alicia D**** »)
+- **Hiérarchie** : ✅ Correcte (H1 > H2 > H3)
+- **Balises sémantiques** : ✅ header, main, section, footer présents
+- **Observations** : Structure claire et logique pour les moteurs de recherche
+
+![alt text](image-1.png)
+
+#### PageSpeed Insights (https://pagespeed.web.dev/?hl=fr)
+
+**Version Mobile :**
+- **Performance** : 100/100
+- **Accessibilité** : 91/100
+- **Bonnes pratiques** 
+
+![alt text](image-2.png)
+
+**Version Desktop :**
+- **Performance** : 100/100
+- **Accessibilité** : 91/100
+- **Bonnes pratiques** : 100/100
+- **SEO** : 100/100
+
+![alt text](image-3.png)
+
+**Points positifs :**
+- Absence d'images lourdes
+- CSS inline (pas de requêtes HTTP supplémentaires)
+- Police système (pas de chargement de fonts externes)
+- Pas de JavaScript bloquant
+- Métadonnées complètes
+
+#### GTmetrix : https://gtmetrix.com/
+- **note** : A
+- **Performance** : 100%
+- **structure**  100%
+- **LCP** : 274 ms
+- **TBT** :0 ms
+- **CLS** : 0
+
+![alt text](image-4.png)
+
+### Améliorations effectuées entre V1 et la V2
+
+#### Version 1 (Initiale)
+**Problèmes identifiés :**
+1. Informations personnelles sensibles exposées (email, téléphone, adresse)
+2. Design basique sans responsive
+3. Pas de meta description
+4. Hiérarchie des titres à revoir
+5. Contrastes insuffisants sur certains éléments
+
+#### Corrections appliquées
+
+**1. Confidentialité et sécurité**
+- ✅ Suppression de l'email personnel, téléphone et adresse postale
+- ✅ Ajout d'un encart explicatif pour le contact via GitHub
+- ✅ Lien GitHub bien visible dans le header
+
+**2. HTML sémantique**
+- ✅ Ajout d'un H1 unique pour le nom
+- ✅ Utilisation correcte des H2 pour les sections principales
+- ✅ H3 pour les sous-sections (postes, diplômes)
+- ✅ Balises structurelles : `<header>`, `<main>`, `<section>`, `<footer>`
+- ✅ Attributs `lang="fr"` sur la balise html
+
+**3. Responsive et mise en page**
+- ✅ Meta viewport ajoutée
+- ✅ Design mobile-first avec media queries pour tablette (768px) et mobile (480px)
+- ✅ Grille CSS adaptative pour les compétences
+- ✅ Test sur plusieurs tailles d'écran : aucun défilement horizontal
+
+**4. UX et Accessibilité**
+- ✅ Contraste amélioré (texte #333 sur fond blanc, ratio > 7:1)
+- ✅ Police de base à 16px (body)
+- ✅ Titres hiérarchisés visuellement (tailles décroissantes)
+- ✅ Liens avec états hover et focus visibles
+- ✅ Bordure au focus pour la navigation au clavier
+- ✅ Textes de liens explicites ("Voir mes projets GitHub" plutôt que "cliquez ici")
+- ✅ Espacement régulier et cohérent (padding, margin)
+
+**5. SEO**
+- ✅ Titre descriptif : "Alicia D**** - CV Technicienne Infrastructure & Réseau"
+- ✅ Meta description pertinente avec mots-clés (BTS SIO, SISR, infrastructure, réseau)
+- ✅ Structure sémantique favorisant l'indexation
+- ✅ Attributs de liens externes (rel="noopener noreferrer")
+
+**6. Performances**
+- ✅ CSS inline (0 requête HTTP supplémentaire)
+- ✅ Aucune bibliothèque externe (Bootstrap retiré au profit de CSS custom)
+- ✅ Police système (pas de Google Fonts)
+- ✅ Pas d'images (pas de poids à optimiser)
+- ✅ Pas de JavaScript (page 100% statique)
+- ✅ Dégradé CSS natif (pas d'image de fond)
+
+**7. Design et professionnalisme**
+- ✅ Dégradé violet moderne et professionnel
+- ✅ Tags pour les centres d'intérêt
+- ✅ Bordures colorées pour structurer visuellement
+- ✅ Animations subtiles au hover
+- ✅ Ombres pour donner de la profondeur
+
+### Résumé des corrections par critère du cahier des charges
+
+| Critère | V1 | Version finale | Amélioration |
+|---------|----|--------------------|--------------|
+| **C1 - Contenu** | 2/4 - Infos sensibles exposées | 4/4 - Clair, concis, conforme | +2 |
+| **C2 - HTML sémantique** | 2/4 - Hiérarchie partielle | 4/4 - Structure exemplaire | +2 |
+| **C3 - Responsive** | 1/4 - Non responsive | 4/4 - Mobile-first, adaptatif | +3 |
+| **C4 - UX/Accessibilité** | 2/4 - Contrastes faibles | 4/4 - WCAG AA respecté | +2 |
+| **C5 - SEO** | 1/4 - Métadonnées absentes | 4/4 - Optimisé pour indexation | +3 |
+| **C6 - Performance** | 2/4 - Bootstrap = surpoids | 4/4 - 100/100 PageSpeed | +2 |
+| **C7 - Validation** | 1/4 - Non testé | 4/4 - W3C + Outiref OK | +3 |
+| **C10 - Confidentialité** | 0/4 - Données sensibles | 4/4 - Conforme RGPD | +4 |
+
+
