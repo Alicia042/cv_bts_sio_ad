@@ -1,6 +1,8 @@
 # Évaluation du CV Web Statique V1
 
 ## Alicia D**** - BTS SIO SISR
+GitHub Pages : https://alicia042.github.io/cv_bts_sio_ad/
+Dépôt GitHub : https://github.com/Alicia042/cv_bts_sio_ad
 
 **URL évaluée:** https://alicia042.github.io/cv_bts_sio_ad/  
 **Date d'évaluation:** 16 décembre 2025
