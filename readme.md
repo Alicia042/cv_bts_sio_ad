@@ -153,3 +153,54 @@ Corrigez toutes les erreurs bloquantes, puis recommittez et poussez.
 - PageSpeed Insights : https://pagespeed.web.dev/?hl=fr
 - GTmetrix (optionnel) : https://gtmetrix.com/
 
+
+---
+
+# AUTO-EVALUATION 
+ci dessous la synsthese des auto evalutation et des evolution du project CV Web – page HTML statique 
+pour plus de détail ce referer au repertoire cv_bts_sio_ad/auto_évaluation_v1.md : https://github.com/Alicia042/cv_bts_sio_ad/blob/main/auto_evaluation_v1.md
+
+Vous trouverez ci-dessous une synthèse des auto-évaluations et des évolutions du projet CV Web – Page HTML statique. Pour plus de détails, consultez le fichier auto_evaluation_v1.md dans le dépôt cv_bts_sio_ad. (https://github.com/Alicia042/cv_bts_sio_ad/blob/main/auto_evaluation_v1.md)
+
+
+### 📊 Tableau Comparatif des Versions
+
+| Critère | V1 (Initiale) | V2 (Optimisation) | V2.2 (Finale) | Évolution globale |
+| --- | --- | --- | --- | --- |
+| **Note Finale** | **9,25 / 20** | **15 / 20** | **17,25 / 20** | 📈 +8 pts |
+| **Confidentialité** | ❌ 0/4 (Exposée) | ✅ 4/4 (RGPD) | ✅ 4/4 | Sécurisé |
+| **Accessibilité** | ⚠️ 2/4 | ⚠️ 91% (PSI) | ✅ 100% (PSI) | Inclusif |
+| **Performance** | ⚠️ 2/4 | ✅ 100% (PSI) | ✅ 100% (PSI) | Instantané |
+| **Sémantique** | ⚠️ 2/4 | ✅ 4/4 | ✅ 4/4 | Structure pro |
+| **SEO** | ❌ 1/4 | ✅ 4/4 | ✅ 3/4* | Indexable |
+| **Responsive** | ❌ 1/4 | ✅ 4/4 | ✅ 4/4 | Mobile-first |
+
+**Note : La légère baisse en SEO/Accessibilité dans le score V2.2 par rapport à l'auto-déclaration V2 est due à une analyse plus stricte des contrastes de badges et des métadonnées.*
+
+---
+
+### Résumé des Améliorations
+
+####  De la V1 à la V2 : Le Grand Nettoyage
+
+L'objectif était de rendre le projet **conforme et professionnel**.
+
+* **Sécurité :** Suppression des coordonnées personnelles (Email) pour respecter l'anonymat.
+* **Structure :** Réécriture totale en HTML5 sémantique (`<main>`, `<section>`) avec une hiérarchie  stricte.
+* **Légèreté :** Passage au CSS pur (abandon de Bootstrap en V2 pour tester la performance maximale) et polices système pour un score PageSpeed de 100/100.
+* **Visibilité :** Ajout des balises `<meta>` pour le SEO et préparation du terrain pour l'indexation Google.
+
+####  De la V2 à la V2.2 : Raffinement et Maîtrise
+
+L'objectif était **d'améliorer le visuel et l'accessibilité**, ainsi que de **produire une auto-évaluation claire et structurée**.
+
+* **Design Moderne :** Réintégration de **Bootstrap** (maîtrisé cette fois) pour une mise en page plus élégante (badges, colonnes) sans sacrifier la performance.
+* **Accessibilité  :** Passage du score d'accessibilité de **91% à 100%** sur PageSpeed Insights mobile.
+* **Qualité de Code :** Organisation rigoureuse du dépôt GitHub avec des dossiers séparés et des messages de commits clairs pour les recruteurs.
+* **Expérience Utilisateur (UX) :** Amélioration des contrastes et ajout d'états visuels au survol (hover) et à la navigation clavier (focus).
+
+---
+
+###  Conclusion de l'évolution
+
+En trois mises à jour majeures, le CV est passé d’un document HTML non conforme aux consignes imposées à un véritable outil de communication professionnel. La progression la plus marquante réside dans l’équilibre trouvé entre un **design riche** (Bootstrap/Fonts) et une **performance technique la plus optimisé**.

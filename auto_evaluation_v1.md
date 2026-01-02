@@ -5,7 +5,13 @@ GitHub Pages : https://alicia042.github.io/cv_bts_sio_ad/
 Dépôt GitHub : https://github.com/Alicia042/cv_bts_sio_ad
 
 **URL évaluée:** https://alicia042.github.io/cv_bts_sio_ad/  
-**Date d'évaluation:** 16 décembre 2025
+**Date d'auto-évaluation:** 16/12/2025
+**auto evalutation effectuer avec :** 
+- claude : https://claude.ai/new 
+- Validateur W3C : https://validator.w3.org/
+- Outiref (structure et référencement) : https://www.outiref.fr/
+- PageSpeed ​​Insights : https://pagespeed.web.dev/?hl=fr
+- GTmetrix (optionnel) : https://gtmetrix.com/ 
 
 ---
 
@@ -311,7 +317,7 @@ Cette section est **CRITIQUE** car elle fait partie des livrables obligatoires.
 # Évaluation du CV Web Statique V2
 
 ## CV Web - Alicia D****
-**Date d'évaluation:** 30 décembre 2025
+**Date d'évaluation:** 30/12/2025
 
 ## 📋 Description du projet
 
@@ -460,7 +466,22 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 
 # Évaluation du CV Web Statique V2.2
 
+## Alicia D**** - BTS SIO SISR
+GitHub Pages : https://alicia042.github.io/cv_bts_sio_ad/
+Dépôt GitHub : https://github.com/Alicia042/cv_bts_sio_ad
+
+**Date d'auto-évaluation:** 02/01/2026
+
+**auto evalutation effectuer avec :** 
+- Giminie 3 https://gemini.google.com/app?hl=fr
+- Validateur W3C : https://validator.w3.org/
+- Outiref (structure et référencement) : https://www.outiref.fr/
+- PageSpeed ​​Insights : https://pagespeed.web.dev/?hl=fr
+- GTmetrix (optionnel) : https://gtmetrix.com/ 
+
+
 ### Améliorations effectuées entre V2 et la V2.2
+
 #### PageSpeed Insights (https://pagespeed.web.dev/?hl=fr)
 
 **Version Mobile :**
@@ -473,3 +494,43 @@ Site web statique présentant mon CV dans le cadre du BTS SIO option SISR. Ce pr
 - **Accessibilité** : 100/100
 - **Bonnes pratiques** : 100/100
 - **SEO** : 100/100
+
+### 1) Récapitulatif des scores (Coefficients par défaut)
+
+| Critère | Score (0–4) | Coef | Score pondéré |
+| --- | --- | --- | --- |
+| **C1** Contenu du CV | 3 | 10 | 30 |
+| **C2** HTML sémantique | 4 | 10 | 40 |
+| **C3** Responsive | 4 | 15 | 60 |
+| **C4** UX & Accessibilité | 3 | 15 | 45 |
+| **C5** SEO | 3 | 10 | 30 |
+| **C6** Performance | 4 | 10 | 40 |
+| **C7** Validation & corrections | 3 | 10 | 30 |
+| **C8** Publication Pages | 4 | 5 | 20 |
+| **C9** Auto‑évaluation | 2 | 5 | 10 |
+| **C10** Confidentialité | 4 | 5 | 20 |
+| **C11** Qualité du dépôt | 4 | 5 | 20 |
+| **TOTAL** |  | **100** | **345** |
+
+#### **Note finale : 17,25 / 20**
+
+---
+
+### 2) Analyse détaillée par critère
+
+* **C2 - HTML Sémantique (4/4) :** Excellent travail. L'utilisation des balises `<header>`, `<main>`, `<section>` et `<footer>` est exemplaire. La hiérarchie des titres ( à ) est logique et respectée.
+* **C3 - Responsive (4/4) :** Le site s'adapte parfaitement. L'utilisation de Bootstrap est maîtrisée, les colonnes s'empilent correctement sur mobile sans scroll horizontal.
+* **C4 - UX & Accessibilité (3/4) :** La lecture est fluide. *Petit axe d'amélioration :* Certains contrastes (texte gris sur fond clair dans les badges de compétences) pourraient être légèrement renforcés pour une accessibilité parfaite (normes WCAG).
+* **C6 - Performance (4/4) :** Le site charge instantanément. L'utilisation de ressources externes (Google Fonts, FontAwesome, Bootstrap via CDN) est bien implémentée.
+* **C9 - Auto-évaluation (2/4) :** C'est le point qui mériterait d'être plus étoffé dans ton README. Tu as bien mis les liens, mais il manque un petit paragraphe ou un tableau "Avant/Après" montrant les erreurs corrigées suite à tes passages sur le W3C ou PageSpeed.
+* **C10 - Confidentialité (4/4) :** Consigne parfaitement respectée. Pas de données sensibles, le lien vers GitHub est bien présent.
+
+---
+
+### 3) Observations globales
+
+**Points forts :**
+
+* **Design professionnel :** Le choix des couleurs (bleu/vert) et de la typographie donne un aspect très "pro" et sérieux, idéal pour une recherche d'alternance.
+* **Code propre :** Le dépôt GitHub est bien organisé avec une arborescence claire (`/css`, `/img`). Les messages de commit sont explicites.
+---
