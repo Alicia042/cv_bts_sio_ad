@@ -157,8 +157,6 @@ Corrigez toutes les erreurs bloquantes, puis recommittez et poussez.
 ---
 
 # AUTO-EVALUATION 
-ci dessous la synsthese des auto evalutation et des evolution du project CV Web – page HTML statique 
-pour plus de détail ce referer au repertoire cv_bts_sio_ad/auto_évaluation_v1.md : https://github.com/Alicia042/cv_bts_sio_ad/blob/main/auto_evaluation_v1.md
 
 Vous trouverez ci-dessous une synthèse des auto-évaluations et des évolutions du projet CV Web – Page HTML statique. Pour plus de détails, consultez le fichier auto_evaluation_v1.md dans le dépôt cv_bts_sio_ad. (https://github.com/Alicia042/cv_bts_sio_ad/blob/main/auto_evaluation_v1.md)
 
